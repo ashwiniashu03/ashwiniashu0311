@@ -4,6 +4,6 @@
 💡 Exploring Python, Django, and Data Science  
 🛠 Skills: HTML, CSS, JavaScript, Python, SQL  
 📊 Built projects in Machine Learning and Web Development  
-📫 How to reach me: ashwinimurugesh0311@gmail.com
+📫 How to reach me: ashwinimurugesh03@gmail.com
 
 > “Keep exploring, keep building.”
